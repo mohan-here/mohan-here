@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="300" src="programmer.png">
+<img align="right" alt="Coding" width="300" src="Programmer.png">
 
 - 🌱 I’m currently learning **Java**
 
