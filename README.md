@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw3IY6u5WG0Z_Uy4JvgIbcuT&ust=1665514235618000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPj9qJ2q1voCFQAAAAAdAAAAABAc">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0kFYpkpGBWWlZZ5niOcr8d&ust=1665515331839000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICPraCu1voCFQAAAAAdAAAAABAD">
 
 - 🌱 I’m currently learning **Java**
 
